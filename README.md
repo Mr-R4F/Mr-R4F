@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 </div><br>
 
 ![Snake animation](https://github.com/Mr-R4F/Mr-R4F/blob/output/github-contribution-grid-snake.svg)
-
