@@ -18,6 +18,7 @@ jobs:
           github_user_name: Mr-R4F
           outputs: |
             dist/ocean.gif?color_snake=blue
+            ist/github-contribution-grid-snake-dark.svg?palette=github-dark
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
