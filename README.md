@@ -2,11 +2,18 @@
 
 E atualmente estou cursando Sistemas para Internet - 2º semestre.
 
-
 <div>
   <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
   <img width="49.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
-</div>
+</div><br>
+
+📌 Estudando
+
+📎 PHP <br>
+📎 Microsoft SQL <br>
+📎 jQuery
+
+
 
 ## Tecnologias
 
