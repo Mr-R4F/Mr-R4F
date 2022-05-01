@@ -1,7 +1,6 @@
-## Olá! 
+## Olá! Eu sou o Rafael
 
-
-Meu nome é Rafael, e atualmente estou cursando Sistemas para Internet - 2º semestre.
+E atualmente estou cursando Sistemas para Internet - 2º semestre.
 
 
 <div>
