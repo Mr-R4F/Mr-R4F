@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael
 
-E atualmente estou cursando Sistemas para Internet - 2º semestre.
+E atualmente estou cursando Tecnologia em Sistemas para Internet - 2º semestre.
 
 <div>
   <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
