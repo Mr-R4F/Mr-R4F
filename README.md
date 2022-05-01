@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá!
+
 <div>
   <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
 </div>
 
-<div style="display:center"><br>
-  <h1>Linguagens</h1>
+## Linguagens
+
+<div style="display: inline_block"><br>
   <img alt="HTML5" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img alt="CSS3" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img alt="JAVASCRIPT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">         
