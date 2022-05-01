@@ -31,4 +31,6 @@ Here are some ideas to get you started:
   <img alt="MSSQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="VSCODE" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="GIT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-</div>
+</div><br>
+
+![Snake animation](https://github.com/Mr-R4F/Mr-R4F/blob/output/github-contribution-grid-snake.svg)
