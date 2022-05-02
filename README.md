@@ -7,10 +7,10 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 2º semestre.
   <img width="49.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
 </div><br>
 
-📌 Estudando
+📌 Estudando...
 
 📎 PHP <br>
-📎 Microsoft SQL <br>
+📎 Microsoft SQL Server <br>
 📎 jQuery
 
 
