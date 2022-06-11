@@ -1,19 +1,19 @@
-## Olá! Eu sou o Rafael
+## Olá! Eu sou o Rafael.
 
 E atualmente estou cursando Tecnologia em Sistemas para Internet - 2º semestre.
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
-  <img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
 </div><br>
 
 📌 Estudando...
 
 📎 PHP <br>
+📎 <!--Laravel--> <br>
+📎 jQuery <br>
 📎 Microsoft SQL Server <br>
-📎 jQuery
-
-
+📎 Bootstrap <br>
 
 ## Tecnologias
 
@@ -34,7 +34,3 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 2º semestre.
 <div><br>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-##
-
-<!--![Snake animation](https://github.com/Mr-R4F/Mr-R4F/blob/output/github-contribution-grid-snake.svg) -->
