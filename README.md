@@ -10,7 +10,7 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 2º semestre.
 📌 Estudando...
 
 📎 PHP <br>
-📎 Laravel
+📎 Laravel <br>
 📎 jQuery <br>
 📎 Microsoft SQL Server <br>
 📎 Bootstrap <br>
