@@ -14,6 +14,7 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 📎 jQuery <br>
 📎 Microsoft SQL Server <br>
 📎 Bootstrap <br>
+📎 Angular <br>
 
 ## Tecnologias
 
@@ -23,6 +24,7 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
   <img alt="BOOTSTRAP" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img alt="JAVASCRIPT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">         
   <img alt="JQUERY" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
+  <img alt="ANGULAR" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img alt="PHP" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img alt="MSSQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="LARAVEL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
