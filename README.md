@@ -3,7 +3,7 @@
 E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
+  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
 </div><br>
 
