@@ -11,11 +11,11 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 
 📎 PHP <br>
 📎 Laravel <br>
-📎 jQuery <br>
 📎 SQL <br>
 📎 Bootstrap <br>
-📎 Angular <br>
 📎 JavaScript <br>
+📎 Angular <br>
+📎 jQuery <br>
 📎 TypeScript <br>
 
 ## Tecnologias
