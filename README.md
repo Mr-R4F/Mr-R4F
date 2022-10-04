@@ -17,6 +17,7 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 📎 Angular <br>
 📎 jQuery <br>
 📎 TypeScript <br>
+📎 Less <br>
 
 ## Tecnologias
 
