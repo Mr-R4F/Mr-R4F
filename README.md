@@ -17,7 +17,9 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 📎 Angular <br>
 📎 jQuery <br>
 📎 TypeScript <br>
-📎 Less
+📎 Less <br>
+📎 NodeJS
+
 
 ## Tecnologias
 
@@ -26,6 +28,7 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
   <img alt="CSS3" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img alt="JAVASCRIPT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="TYPESCRIPT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img alt="NODE-JS" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">     
   <img alt="BOOTSTRAP" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img alt="LESS" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
   <img alt="JQUERY" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
