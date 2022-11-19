@@ -39,7 +39,10 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
   <img alt="LARAVEL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img alt="FIGMA" width="6%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img alt="VSCODE" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="GIT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+</div>
+
+<div><br>
+    <img alt="GIT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
 
 ## Contato
