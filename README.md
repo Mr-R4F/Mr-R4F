@@ -16,7 +16,8 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 📎 jQuery <br>
 📎 TypeScript <br>
 📎 Less <br>
-📎 NodeJS
+📎 NodeJS<br>
+📎 WordPress
 
 
 ## Tecnologias
@@ -27,6 +28,7 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
   <img alt="JAVASCRIPT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="TYPESCRIPT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img alt="BOOTSTRAP" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img alt="WORDPRESS" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img alt="NODE-JS" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="JQUERY" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
   <img alt="LESS" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
@@ -34,12 +36,12 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
   <img alt="PHP" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img alt="MSSQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="MySQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">  
-  <img alt="LARAVEL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img alt="LARAVEL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">     
   <img alt="FIGMA" width="6%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="VSCODE" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <div><br>
+    <img alt="VSCODE" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img alt="GIT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
 
