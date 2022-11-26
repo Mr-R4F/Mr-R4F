@@ -17,7 +17,8 @@ E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
 📎 TypeScript <br>
 📎 Less <br>
 📎 NodeJS<br>
-📎 WordPress
+📎 WordPress<br>
+📎 Git
 
 
 ## Tecnologias
