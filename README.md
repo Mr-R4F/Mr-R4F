@@ -1,6 +1,7 @@
-## Olá! Eu sou o Rafael.
+# Rafael M.
 
-E atualmente estou cursando Tecnologia em Sistemas para Internet - 3º semestre.
+Bem Vindo(a) ! <br>
+Cursando Tecnologia em Sistemas para Internet - 3º semestre.
 
 <div>
   <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
