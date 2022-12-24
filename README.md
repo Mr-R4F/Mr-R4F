@@ -17,6 +17,7 @@ Cursando Tecnologia em Sistemas para Internet - 3º semestre.
 📎 jQuery <br>
 📎 TypeScript <br>
 📎 Less <br>
+📎 Pug HTML <br>
 📎 NodeJS<br>
 📎 WordPress<br>
 📎 Git
