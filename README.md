@@ -4,8 +4,8 @@ Bem Vindo(a) ! <br>
 Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
 <div>
-  <img height="222em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="222em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact">
 </div><br>
 
 📌 Estudando...
