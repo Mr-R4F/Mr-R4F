@@ -18,7 +18,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 📎 PHP <br>
 📎 Laravel <br>
 📎 Angular <br>
-📎 Flutter <br>
+📎 Dart / Flutter <br>
 📎 WordPress<br>
 📎 Git
 
