@@ -10,14 +10,9 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
 📌 Estudando...
 
-📎 JavaScript <br>
 📎 TypeScript <br>
-📎 jQuery <br>
 📎 NodeJS<br>
-📎 Less <br>
-📎 PHP <br>
 📎 Laravel <br>
-📎 Angular <br>
 📎 Dart / Flutter <br>
 📎 WordPress<br>
 📎 Git
