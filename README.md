@@ -40,10 +40,11 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
   <img alt="MSSQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="MySQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">  
   <img alt="LARAVEL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img alt="ELECTRON" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+  <!--- <img alt="ELECTRON" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"> -->
 </div>
 
 <div><br>
+    <img alt="PS" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">      
     <img alt="FIGMA" width="6%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img alt="VSCODE" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img alt="GIT" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
