@@ -10,12 +10,9 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
 📌 Estudando...
 
-📎 TypeScript <br>
 📎 NodeJS<br>
 📎 Laravel <br>
 📎 Dart / Flutter <br>
-📎 WordPress<br>
-📎 Git
 
 
 ## Tecnologias
@@ -35,6 +32,8 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
   <img alt="MSSQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="MySQL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">  
   <img alt="LARAVEL" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img alt="FLUTTER" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+          
   <!--- <img alt="ELECTRON" width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"> -->
 </div>
 
