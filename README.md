@@ -11,6 +11,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 📌 Estudando...
 
 📎 NodeJS<br>
+📎 VueJS<br>
 📎 Laravel <br>
 📎 Dart / Flutter <br>
 
