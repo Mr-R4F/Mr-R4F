@@ -3,21 +3,20 @@
 Bem Vindo(a) ! <br>
 Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
-<table align="center">
-  <tr>
-     <td><img height="220em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"></td>
-     <td><img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10"></td>
-  </tr>
-  <tr>
-     <td><img height="220em" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-R4F&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D"></td>
-     <td>
-      📚 Estudando ... <br><br>
-      📎 NodeJS <br>
-      📎 VueJS <br>
-      📎 Laravel <br>
-      📎 Dart / Flutter <br></td>
-  </tr>
-</table>
+<div align="center">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
+</div>
+
+<div align="center">
+  <img height="210em" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-R4F&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D">
+</div>
+
+📚 Estudando ... <br><br>
+📎 NodeJS <br>
+📎 VueJS <br>
+📎 Laravel <br>
+📎 Dart / Flutter <br>
 
 ## 🧰 Tecnologias
 
