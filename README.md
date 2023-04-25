@@ -46,6 +46,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
     <img alt="FIGMA" width="5%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img alt="VSCODE" width="5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img alt="GIT" width="5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img alt="SWAGGER" width="5%" align="center" src="https://cdn.svgporn.com/logos/swagger.svg">
 </div>
 
 ## 🔗 Contatos
