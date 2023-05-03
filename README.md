@@ -3,10 +3,14 @@
 Bem Vindo(a) ! <br>
 Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
+## GitHub Stats 📈
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
-   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-R4F&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D">
+  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
+</div>
+
+<div align="center">
+ <img height="181em" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-R4F&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D">
 </div>
 
 
