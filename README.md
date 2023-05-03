@@ -13,13 +13,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
  <img height="181em" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-R4F&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D">
 </div>
 
-
-📚 Estudando ... <br><br>
-📎 NodeJS <br>
-📎 Laravel <br>
-📎 Dart / Flutter <br>
-
-## 🧰 Tecnologias
+## Tecnologias 💻
 
 <div align="center"><br>
   <img alt="HTML5" width="4.5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -49,3 +43,9 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
     <img alt="VSCODE" width="4.5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img alt="GIT" width="4.5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
+
+## Estudando 📚 
+
+📎 NodeJS <br>
+📎 Laravel <br>
+📎 Dart / Flutter <br>
