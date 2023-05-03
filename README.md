@@ -48,10 +48,3 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
     <img alt="GIT" width="5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
     <img alt="SWAGGER" width="5%" align="center" src="https://cdn.svgporn.com/logos/swagger.svg">
 </div>
-
-## 🔗 Contatos
-
-<div align="center">
-  <a href="#"><img width="100em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafael-martins-soares/"><img width="130em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
