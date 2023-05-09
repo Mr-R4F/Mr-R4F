@@ -47,6 +47,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
 ## Estudando 📚 
 
+📎 Electron <br>
 📎 NodeJS <br>
 📎 Laravel <br>
 📎 Dart / Flutter <br>
