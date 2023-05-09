@@ -35,6 +35,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
   <img alt="EXPRESS" width="4.5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img alt="SEQUELIZE" width="4.5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img alt="SWAGGER" width="4.5%" align="center" src="https://cdn.svgporn.com/logos/swagger.svg">
+  <img alt="DOCKER" width="4.5%" align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </div>
 
 <div align="center"><br>
@@ -49,3 +50,4 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 📎 NodeJS <br>
 📎 Laravel <br>
 📎 Dart / Flutter <br>
+📎 Docker / Kubernetes
