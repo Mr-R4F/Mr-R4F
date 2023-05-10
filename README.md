@@ -10,7 +10,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 </div>
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&&theme=github_dark&hide_border=true&border_radius=10">
+    <img height="290em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mr-R4F&theme=react-dark&hide_border=true&border_radius=10">
 </div>
 
 ## Tecnologias 💻
