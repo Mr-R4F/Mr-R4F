@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=00000">
 
-# Rafael M.
-
-Bem Vindo(a) ! <br>
-Cursando Tecnologia em Sistemas para Internet - 4º semestre.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bfffff&size=30&vCenter=true&width=1000&size=40&lines=Olá,+Sou+o+Rafael;Tenho+20+anos;Cursando+Tecnologia+em+Sistemas+para+Internet;4º+-+Semestre;Seja+Bem-Vindo!+:D)](https://git.io/typing-svg)
 
 ## GitHub Stats 📈
 <div align="center">
