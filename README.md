@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=00000">
+
 # Rafael M.
 
 Bem Vindo(a) ! <br>
@@ -33,3 +35,4 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=footer">
