@@ -16,16 +16,16 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 ## Tecnologias 💻
 
 <div align="center"><br>
-      <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,less,angular,mssql,mysql,laravel,flutter,electron,express,sequelize,swagger,docker,git,figma,vscode">
+      <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,laravel,flutter,electron,express,sequelize,docker,git,postman,figma,vscode">
 </div>
 
 ## Estudando 📚 
 
 <div align="center">
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
