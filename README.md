@@ -1,15 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=00000">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=00000&section=header&text=Rafael%20M&fontColor=fff&fontAlign=12&fontAlignY=25&fontSize=45">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=80&vCenter=true&width=1000&size=40&lines=Cursando+Tecnologia+em+Sistemas+para+Internet;Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
 
 ## GitHub Stats 📈
+
 <div align="center">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
   <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
-</div>
-
-<div align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
 </div>
 
 <div align="center">
