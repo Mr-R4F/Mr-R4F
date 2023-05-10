@@ -15,7 +15,7 @@ Cursando Tecnologia em Sistemas para Internet - 4º semestre.
 
 ## Tecnologias 💻
 
-<div align="center"><br>
+<div align="center">
       <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,laravel,flutter,electron,express,sequelize,docker,git,postman,figma,vscode">
 </div>
 
