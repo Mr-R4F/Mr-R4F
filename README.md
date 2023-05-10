@@ -25,7 +25,7 @@
 ## Estudando 📚 
 
 <div>
-      <img height="58em" src="https://skillicons.dev/icons?i=flutter,laravel,nodejs,electron,docker,kubenetes">
+      <img height="58em" src="https://skillicons.dev/icons?i=flutter,laravel,nodejs,electron,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=footer">
