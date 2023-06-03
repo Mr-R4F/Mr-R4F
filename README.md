@@ -10,15 +10,14 @@
 </div>
 
 <div align="center">
-      <img height="275em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
+      <img height="318em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
 </div>
 
 <div align="center">
-    <img height="288em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mr-R4F&theme=react&hide_border=true&radius=10">
+    <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R4F&theme=react&hide_border=true&radius=10">
 </div>
 
 ## Tecnologias 💻
-
 <div align="center">
       <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,php,laravel,flutter,electron,express,sequelize,docker,git,postman,figma,vscode">
 </div>
