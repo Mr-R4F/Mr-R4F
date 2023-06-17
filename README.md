@@ -5,8 +5,8 @@
 ## GitHub Stats 📈
 
 <div align="center">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
+  <img height="196em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 ## Estudando 📚 
 
 <div>
-      <img height="50em" src="https://skillicons.dev/icons?i=flutter,laravel,nodejs,electron,docker,kubernetes">
+      <img height="60em" src="https://skillicons.dev/icons?i=flutter,nodejs,electron,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
