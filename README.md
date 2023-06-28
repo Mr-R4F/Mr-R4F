@@ -19,7 +19,7 @@
 
 ## Tecnologias 💻
 <div align="center">
-      <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,php,laravel,flutter,electron,express,sequelize,docker,git,postman,figma,vscode">
+  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,php,laravel,flutter,express,sequelize,git,postman,figma,vscode">
 </div>
 
 ## Estudando 📚 
