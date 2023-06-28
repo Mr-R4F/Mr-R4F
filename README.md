@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=80&vCenter=true&width=1000&size=35&lines=Cursando+Tecnologia+em+Sistemas+para+Internet;Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
 
-## GitHub Stats 📈
+## Stats 📈
 
 <div align="center">
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
