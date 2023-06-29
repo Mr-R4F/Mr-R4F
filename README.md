@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-      <img height="318em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
+      <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
 </div>
 
 <div align="center">
