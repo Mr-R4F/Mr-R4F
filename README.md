@@ -19,13 +19,13 @@
 
 ## Tecnologias 💻
 <div align="center">
-  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,express,sequelize,git,postman,figma,vscode">
+  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,express,sequelize,prisma,git,postman,figma,vscode">
 </div>
 
 ## Estudando 📚 
 
 <div>
-      <img height="50em" src="https://skillicons.dev/icons?i=ts,react,prisma,nodejs,electron,docker,kubernetes">
+      <img height="50em" src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
