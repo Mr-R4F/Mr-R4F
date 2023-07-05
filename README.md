@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-      <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
+      <img height="445em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
 </div>
 
 <div align="center">
@@ -19,13 +19,13 @@
 
 ## Tecnologias 💻
 <div align="center">
-  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,express,sequelize,prisma,git,postman,figma,vscode">
+  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,express,sequelize,prisma,electron,git,postman,figma,vscode">
 </div>
 
 ## Estudando 📚 
 
 <div>
-      <img height="50em" src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,docker,kubernetes">
+  <img height="50em" src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
