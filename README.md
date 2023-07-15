@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-      <img height="445em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
+      <img height="485em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&radius=10">
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 ## Estudando 📚 
 
 <div>
-  <img height="50em" src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,docker,kubernetes">
+  <img height="55em" src="https://skillicons.dev/icons?i=ts,react,electron,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
