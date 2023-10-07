@@ -25,7 +25,7 @@
 ## Estudando 📚 
 
 <div>
-  <img height="60em" src="https://skillicons.dev/icons?i=ts,react">
+  <img height="55em" src="https://skillicons.dev/icons?i=ts,react,tailwind,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
