@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=1a1a1a&section=header&text=Rafael%20M.&fontColor=fff&fontAlign=12&fontAlignY=25&fontSize=40">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=1a1a1a&section=header&text=Rafael%20M.&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=50&descAlign=25&descSize=15&fontColor=bfbfbf&fontAlign=14&fontAlignY=25&fontSize=40">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=80&vCenter=true&width=1000&size=35&lines=Cursando+Tecnologia+em+Sistemas+para+Internet;Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
 
