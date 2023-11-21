@@ -17,6 +17,9 @@
     <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R4F&theme=react&hide_border=true&radius=10">
 </div>
 
+##
+<img src='https://wakatime.com/badge/user/8d32e52d-8b09-4456-aa53-066903a5690f.svg'>
+
 ## Tecnologias 💻
 <div align="center">
   <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,express,sequelize,prisma,electron,git,postman,figma,vscode">
