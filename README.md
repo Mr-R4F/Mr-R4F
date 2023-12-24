@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=80&vCenter=true&width=1000&size=35&lines=Seja+bem-vindo(a)!;ao+meu+Git+Hub.)](https://git.io/typing-svg)
 
 ## Sobre 🔍
-Meu nome é Rafael, tenho 20 anos, estou cursando superior em Sistemas para Internet no SENAC - São Paulo, e sou estudante apaixonado por tecnologia, buscando aperfeiçoar minhas habilidades e conhecimentos técnicos na área. Não possuo experiência própria no setor, mas venho aprimorando, por meio de projetos acadêmicos e próprios desenvolvidos no processo de aprendizado.
+Meu nome é Rafael, tenho 20 anos, sou apaixonado por tecnologia, e estou sempre buscando aperfeiçoar minhas habilidades e conhecimentos técnicos na área. Não possuo experiência própria no setor, mas venho aprimorando, por meio de projetos acadêmicos e próprios desenvolvidos no processo de aprendizado.
 
 Atualmente, sou graduado em Tecnologia em Sistemas para Internet, e pretendo atuar no tanto no desenvolvimento client-side quanto no server-side, assim como em outros setores da área, e aplicar minhas habilidades e competências em novos projetos desafiadores e trabalhar com equipes dinâmicas e inovadoras.
 
-E fique a vontade para explorar cada projeto desenvolvido por mim. :)
+Cada projeto foi desenvolvido para por em prática os conhecimentos adquiridos durante o periodo de estudos. Fique a vontade para explorar cada um deles desenvolvido por mim. :)
 
 ## Stats 📈
 
@@ -24,7 +24,7 @@ E fique a vontade para explorar cada projeto desenvolvido por mim. :)
     <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R4F&theme=react&hide_border=true&radius=10">
 </div>
 
-## Code time ⌛
+## Coding time ⌛
 <img src='https://wakatime.com/badge/user/8d32e52d-8b09-4456-aa53-066903a5690f.svg'>
 
 ## Tecnologias 💻
