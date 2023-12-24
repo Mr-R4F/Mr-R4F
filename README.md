@@ -1,6 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=1a1a1a&section=header&text=Rafael%20M.&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=50&descAlign=25&descSize=15&fontColor=bfbfbf&fontAlign=14&fontAlignY=25&fontSize=40">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=1a1a1a&section=header&text=Rafael%20M.&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=55&descAlign=25&descSize=15&fontColor=bfbfbf&fontAlign=14&fontAlignY=25&fontSize=40">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=80&vCenter=true&width=1000&size=35&lines=Cursando+Tecnologia+em+Sistemas+para+Internet;Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=80&vCenter=true&width=1000&size=35&lines=Seja+bem-vindo(a)!;ao+meu+Git+Hub.)](https://git.io/typing-svg)
+
+## Sobre 🔍
+Meu nome é Rafael, tenho 20 anos, estou cursando superior em Sistemas para Internet no SENAC - São Paulo, e sou estudante apaixonado por tecnologia, buscando aperfeiçoar minhas habilidades e conhecimentos técnicos na área. Não possuo experiência própria no setor, mas venho aprimorando, por meio de projetos acadêmicos e próprios desenvolvidos no processo de aprendizado.
+
+Atualmente, sou graduado em Tecnologia em Sistemas para Internet, e pretendo atuar no tanto no desenvolvimento client-side quanto no server-side, assim como em outros setores da área, e aplicar minhas habilidades e competências em novos projetos desafiadores e trabalhar com equipes dinâmicas e inovadoras.
+
+E fique a vontade para explorar cada projeto desenvolvido por mim. :)
 
 ## Stats 📈
 
@@ -17,7 +24,7 @@
     <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R4F&theme=react&hide_border=true&radius=10">
 </div>
 
-##
+## Code time ⌛
 <img src='https://wakatime.com/badge/user/8d32e52d-8b09-4456-aa53-066903a5690f.svg'>
 
 ## Tecnologias 💻
@@ -28,7 +35,7 @@
 ## Estudando 📚 
 
 <div>
-  <img height="55em" src="https://skillicons.dev/icons?i=ts,react,mui,docker,kubernetes">
+  <img height="52.5em" src="https://skillicons.dev/icons?i=ts,react,mui,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
