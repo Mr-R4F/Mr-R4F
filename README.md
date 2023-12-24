@@ -25,7 +25,7 @@ Cada projeto foi desenvolvido para por em prática os conhecimentos adquiridos d
 </div>
 
 ## Coding time ⌛
-<img src='https://wakatime.com/badge/user/8d32e52d-8b09-4456-aa53-066903a5690f.svg'>
+<img src='https://wakatime.com/badge/user/8d32e52d-8b09-4456-aa53-066903a5690f.svg?style=flat-square&label=Code&color=lightgrey'>
 
 ## Tecnologias 💻
 <div align="center">
