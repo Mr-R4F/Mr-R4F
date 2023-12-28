@@ -29,7 +29,7 @@ Cada projeto foi desenvolvido para por em prática os conhecimentos adquiridos d
 
 ## Tecnologias 💻
 <div align="center">
-  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,mui,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,express,sequelize,prisma,electron,git,postman,figma,vscode">
+  <img height="150em" src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,mui,wordpress,nodejs,jquery,angular,mysql,sqlite,php,laravel,flutter,firebase,express,sequelize,prisma,electron,git,postman,figma,vscode">
 </div>
 
 ## Estudando 📚 
