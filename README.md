@@ -35,7 +35,7 @@ Cada projeto foi desenvolvido para por em prática os conhecimentos adquiridos d
 ## Estudando 📚 
 
 <div>
-  <img height="52.5em" src="https://skillicons.dev/icons?i=ts,react,azure,docker,kubernetes">
+  <img height="53em" src="https://skillicons.dev/icons?i=py,azure,docker,kubernetes">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&section=footer">
