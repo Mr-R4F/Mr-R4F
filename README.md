@@ -15,12 +15,12 @@ Cada projeto aqui, foi desenvolvido para por em prática os conhecimentos adquir
 ## Métricas 📈
 
 <div align="center">
-  <img height="222em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
-  <img height="222em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
+  <img height="208em" src="https://github-readme-stats.vercel.app/api?username=Mr-R4F&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
+  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R4F&theme=github_dark&layout=compact&hide_border=true&border_radius=10">
 </div>
 
 <div align="center">
-  <img height="795em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&border_radius=10">
+  <img height="750em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrR4F&layout=compact&theme=react&hide_border=true&border_radius=10">
 </div>
 
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Coding Time ⌛ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
@@ -28,7 +28,7 @@ Cada projeto aqui, foi desenvolvido para por em prática os conhecimentos adquir
 |<img height="30em" src='https://wakatime.com/badge/user/8d32e52d-8b09-4456-aa53-066903a5690f.svg?style=flat-square&label=Code&color=lightgrey'>|
 
 <div align="center">
-    <img height="315em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R4F&theme=merko&hide_border=true&radius=20&days=40&height=375">
+    <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R4F&theme=merko&hide_border=true&radius=20&days=40&height=375">
 </div>
 
 ## Conhecimento base ⏩
