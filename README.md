@@ -6,7 +6,7 @@
 
 <div>
   <p align="justify">
-Meu nome é Rafael, tenho 21 anos, sou apaixonado por tecnologia, e estou sempre buscando aperfeiçoar minhas habilidades e conhecimentos técnicos na área. Graduado em Tecnologia em Sistemas para Internet no SENAC - SP, pretendo atuar no tanto no desenvolvimento     client-side quanto no server-side, assim como em outros setores da área, e aplicar minhas habilidades e competências em novos projetos desafiadores e trabalhar com equipes dinâmicas e inovadoras. No momento estou realizando uma Pós-Graduação em Full stack, para assim, buscar o meu objetivo. Minha experiência no setor é no do Service Desk, prestando atendimento ao cliente e trabalhando no aperfeiçoamento das atividades.
+Meu nome é Rafael, tenho 22 anos, sou apaixonado por tecnologia, e estou sempre buscando aperfeiçoar minhas habilidades e conhecimentos técnicos na área. Graduado em Tecnologia em Sistemas para Internet no SENAC - SP, pretendo atuar no tanto no desenvolvimento     client-side quanto no server-side, assim como em outros setores da área, e aplicar minhas habilidades e competências em novos projetos desafiadores e trabalhar com equipes dinâmicas e inovadoras. No momento estou realizando uma Pós-Graduação em Full stack, para assim, buscar o meu objetivo. Minha experiência no setor é no do Service Desk, prestando atendimento ao cliente e trabalhando no aperfeiçoamento das atividades.
 
 Cada projeto aqui, foi desenvolvido para por em prática os conhecimentos adquiridos ao longo do tempo. Fique a vontade para explorar cada um deles desenvolvido por mim. :)
   </p>
